@@ -1,0 +1,10 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: assets/pizzas/8.png
+
+  android_12:
+    color: "#FFFFFF"
+    image: assets/pizzas/8.png
+
+  web: false
+  ios: true
